@@ -1,0 +1,28 @@
+### Blog  Web Application Using React.js, Node.js, MongoDB, Express.js
+
+# description
+
+1. This is a full client (frontend) and server (backend) side code for a Blog web application for HYPE SQUARE MEDIA, as an assignment. It's built using the MERN stack.
+
+
+
+
+### Installation guid
+
+## 
+
+# Install Dependencies
+
+**For Dev** - `npm i && npm run dev`
+
+
+## Env Variables
+
+## server folder
+
+MONGO_URI=`from mongoDB atlas`
+
+JWT_SECRET=`JHFGHCGFJFCJC`
+
+
+
